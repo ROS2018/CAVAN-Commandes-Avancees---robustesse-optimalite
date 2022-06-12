@@ -1,0 +1,6 @@
+\select@language {french}
+\contentsline {section}{\numberline {I}Exercice 4}{1}{section.1}
+\contentsline {subsection}{\numberline {i}R\IeC {\'e}soulution du problem en utilisant YALMIP}{1}{subsection.1.1}
+\contentsline {section}{\numberline {II}Exercice 3}{2}{section.2}
+\contentsline {section}{\numberline {III}Exercice 2}{2}{section.3}
+\contentsline {section}{\numberline {IV}Exercice 1}{2}{section.4}
